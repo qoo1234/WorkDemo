@@ -1,0 +1,26 @@
+1.Construct Objective-C Environment
+1.1 OS: Window 8.1
+1.2 IDE: CodeBlocks - http://www.codeblocks.org/downloads/26
+1.3 Information - https://www.itread01.com/p/892674.html
+
+2.Problem
+Write a function that returns all distinct solutions to the 8-queens puzzle.
+Each solution contains a distinct board configuration of the 8-queens' placement, where 'Q' and '.' 
+both indicate a queen and an empty space respectively.
+--------
+Example solution for 4-queen puzzle
+Output:
+
+// Solution 1
+.Q..  
+...Q
+Q...
+..Q.
+
+
+// Solution 2
+..Q.
+Q...
+...Q
+.Q..
+
